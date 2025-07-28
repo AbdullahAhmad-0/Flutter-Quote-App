@@ -52,11 +52,9 @@ This app uses the [ZenQuotes.io](https://zenquotes.io/) API to fetch quotes.
 
 ## 📸 Screenshots
 
-| Light Mode                                                                               | Dark Mode |
-|------------------------------------------------------------------------------------------|-----------|
-| ![light](https://github.com/AbdullahAhmad-0/Flutter-Quote-App/blob/master/assets/sl.png) | ![dark](https://github.com/AbdullahAhmad-0/Flutter-Quote-App/blob/master/assets/sd.png) |
-
-![Main](https://github.com/AbdullahAhmad-0/Flutter-Quote-App/blob/master/assets/slm.png)
+| Light Mode                                                                               | Dark Mode | Main Screen |
+|------------------------------------------------------------------------------------------|-----------|-------|
+| ![light](https://github.com/AbdullahAhmad-0/Flutter-Quote-App/blob/master/assets/sl.png) | ![dark](https://github.com/AbdullahAhmad-0/Flutter-Quote-App/blob/master/assets/sd.png) | ![Main](https://github.com/AbdullahAhmad-0/Flutter-Quote-App/blob/master/assets/slm.png) |
 
 ---
 
