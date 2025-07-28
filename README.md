@@ -1,16 +1,83 @@
-# quotesapp
+# ✨ Quotes App
 
-A new Flutter project.
+A beautifully animated and responsive **Flutter Quotes App** that fetches inspirational quotes from the [ZenQuotes API](https://zenquotes.io/) and displays them in a delightful UI. Supports light and dark mode out of the box, and features smooth fade and scale animations.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🧠 Fetches random inspirational quotes using the ZenQuotes API.
+- 🎨 Light and dark mode support (auto-detected).
+- 💫 Elegant fade and scale animations for quote display.
+- 🔁 One-tap refresh for new quotes.
+- 🧭 Clean and minimal UI with responsive layout.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+
+### Prerequisites
+
+Make sure you have Flutter installed. If not, follow the [Flutter installation guide](https://docs.flutter.dev/get-started/install).
+
+### Installation
+
+1. Clone the repository:  
+   git clone https://github.com/AbdullahAhmad-0/Flutter-Quote-App
+   cd Flutter-Quote-App
+
+2. Install dependencies:  
+   flutter pub get
+
+3. Run the app:  
+   flutter run
+
+---
+
+## 🛠️ Project Structure
+
+lib/  
+├── main.dart        – Entry point and app logic
+
+---
+
+## 🔌 API
+
+This app uses the [ZenQuotes.io](https://zenquotes.io/) API to fetch quotes.
+
+- **Endpoint used**: https://zenquotes.io/api/random
+- **Returns**: A random quote with author in JSON format.
+
+---
+
+## 📸 Screenshots
+
+| Light Mode | Dark Mode |
+|------------|-----------|
+| ![light](https://via.placeholder.com/200x400?text=Light+Mode) | ![dark](https://via.placeholder.com/200x400?text=Dark+Mode) |
+
+> _Replace these placeholders with actual screenshots from your app._
+
+---
+
+## ✨ Customization
+
+You can easily tweak the app by:
+- Changing the API endpoint
+- Adjusting theme colors
+- Modifying animations
+- Adding quote categories or saving favorites
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🙌 Acknowledgements
+
+- [ZenQuotes API](https://zenquotes.io/)
+- [Flutter](https://flutter.dev/)
+- [Material Icons](https://fonts.google.com/icons)
